@@ -12,4 +12,3 @@ function connect($host, $dbname, $user, $pass)
         die($e->getMessage());
     }
 }
-
