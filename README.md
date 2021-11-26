@@ -1,4 +1,4 @@
-# Catalog
+# catalog
 
 (Завдання зі стажування на PHP backend розробника)
 
